@@ -1,0 +1,16 @@
+.section {
+    padding: 32px 15px;
+
+}
+
+.container {
+    max-width: 384px;
+}
+
+.menu {
+    background-color: #FFFDEE;
+}
+
+.name-menu {
+    margin-bottom: 4px;
+}
